@@ -1,2 +1,4 @@
 .venv
 .DS_Store
+mysite/**/__pycache__/
+mysite/**/migrations/
